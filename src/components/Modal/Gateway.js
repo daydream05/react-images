@@ -12,7 +12,7 @@ export default class ModalGateway extends Component<{
   target: HTMLElement,
 }> {
   static defaultProps = {
-    target: document.body,
+    target: document ? document.body : null,
   };
   render() {
     const { target, children } = this.props;
