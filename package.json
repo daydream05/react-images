@@ -1,5 +1,5 @@
 {
-  "name": "react-images",
+  "name": "react-images-modified",
   "version": "1.0.0-alpha.3",
   "description": "A mobile-friendly, highly customizable, carousel component for displaying media in ReactJS",
   "main": "lib/index.js",
